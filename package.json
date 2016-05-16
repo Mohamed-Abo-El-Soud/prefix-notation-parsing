@@ -1,0 +1,23 @@
+{
+  "name": "prefix-notation-parsing",
+  "version": "1.0.0",
+  "description": "a test parsing algorithm that parses prefix notation from strings",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Abo-El-Soud/prefix-notation-parsing.git"
+  },
+  "author": "Mohamed Abo El Soud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Abo-El-Soud/prefix-notation-parsing/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Abo-El-Soud/prefix-notation-parsing#readme",
+  "devDependencies": {
+    "eslint": "^2.10.1",
+    "eslint-config-google": "^0.5.0"
+  }
+}
